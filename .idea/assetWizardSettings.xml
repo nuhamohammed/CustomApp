@@ -13,6 +13,19 @@
                       <PersistentState>
                         <option name="children">
                           <map>
+                            <entry key="actionbar">
+                              <value>
+                                <PersistentState>
+                                  <option name="values">
+                                    <map>
+                                      <entry key="assetType" value="IMAGE" />
+                                      <entry key="imageAsset" value="$USER_HOME$/Desktop/birds/Laysan_Albatross.jpg" />
+                                      <entry key="outputName" value="Black_Footed_Albatross" />
+                                    </map>
+                                  </option>
+                                </PersistentState>
+                              </value>
+                            </entry>
                             <entry key="launcher">
                               <value>
                                 <PersistentState>
@@ -34,14 +47,19 @@
                                   <option name="values">
                                     <map>
                                       <entry key="backgroundLayerName" value="ic_launcher_background" />
-                                      <entry key="foregroundImage" value="$USER_HOME$/Desktop/birds/green-bird-icon.png" />
-                                      <entry key="foregroundLayerName" value="ic_launcher_foreground4" />
-                                      <entry key="outputName" value="ic_launcher4" />
+                                      <entry key="foregroundImage" value="$USER_HOME$/Desktop/birds/peacock-feathers.jpg" />
+                                      <entry key="foregroundLayerName" value="ic_launcher_foreground5" />
+                                      <entry key="outputName" value="ic_launcher5" />
                                     </map>
                                   </option>
                                 </PersistentState>
                               </value>
                             </entry>
+                          </map>
+                        </option>
+                        <option name="values">
+                          <map>
+                            <entry key="outputIconType" value="ACTIONBAR" />
                           </map>
                         </option>
                       </PersistentState>
